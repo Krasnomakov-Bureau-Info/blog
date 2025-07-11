@@ -1,6 +1,6 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# The Question of Artistic Kinship: Nikolai Gogol and Hieronymus Bosch in Comparative Perspective (Corrected Version)
+# The Question of Artistic Kinship: Nikolai Gogol and Hieronymus Bosch in Comparative Perspective
 
 ## Introduction
 

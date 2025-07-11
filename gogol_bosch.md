@@ -1,6 +1,6 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# The Question of Artistic Kinship: Nikolai Gogol and Hieronymus Bosch in Comparative Perspective
+# The Question of Artistic Kinship: Nikolai Gogol and Hieronymus Bosch in Comparative Perspective (Corrected Version)
 
 ## Introduction
 
@@ -10,82 +10,78 @@ The relationship between Nikolai Gogol (1809-1852) and Hieronymus Bosch (c. 1450
 
 ### Early Recognition of Parallels
 
-The scholarly investigation of Gogol-Bosch connections began with Wolfgang Kayser's seminal work **Das Groteske: seine Gestaltung in Malerei und Dichtung** (1957), where he first identified "thematic analogies" between the Russian writer and the Flemish painter[^1][^2]. Kayser's analysis positioned both artists within the broader framework of grotesque art, noting their shared ability to create worlds where "the realm of inanimate things is no longer separated from those of plants, animals, and human beings"[^2].
+The scholarly investigation of Gogol-Bosch connections began with Wolfgang Kayser's seminal work **Das Groteske: seine Gestaltung in Malerei und Dichtung** (1957), where he first identified what scholars have termed "thematic analogies" between the Russian writer and the Flemish painter[^1]. Kayser's analysis positioned both artists within the broader framework of grotesque art, examining their shared ability to create worlds where conventional boundaries between reality and fantasy dissolve.
 
-Building upon Kayser's foundation, Paul Evdokimov in his work **Gogol and Dostoevsky: Descent to Hell** (1961) further explored these connections, though his analysis focused primarily on the spiritual and theological dimensions of both artists' treatment of evil and redemption[^3][^4]. Similarly, N. Oulinaff contributed to this emerging scholarly conversation by identifying what he termed the "arabesque" quality shared by both Gogol and Bosch[^1][^5].
+Building upon Kayser's foundation, Paul Evdokimov in his work **Gogol et Dostoïevsky, ou la descente aux enfers** (1961) further explored these connections, though his analysis focused primarily on the spiritual and theological dimensions of both artists' treatment of evil and redemption[^2][^3]. Similarly, N. Oulinaff contributed to this emerging scholarly conversation by identifying shared characteristics in their artistic approaches[^4].
 
-### Obolensky's Comprehensive Analysis
+### Obolensky's Academic Contributions
 
-The most substantial scholarly treatment of this topic came with Alexander P. Obolensky's 1984 essay "Gogol and Hieronymous Bosch: A Comparative Essay," published in the *Transactions of the Association of Russian-American Scholars*[^1][^5]. Obolensky's work represents the first systematic attempt to examine the relationship between these artists across multiple dimensions of artistic practice.
+The most substantial scholarly treatment of this topic came with Alexander P. Obolensky's research, which appeared in two separate publications. His 1973 article "Nicholas Gogol and Hieronymous Bosch" was published in **The Russian Review** (vol. 32, no. 2)[^5][^6][^7], followed by his 1984 work "Gogol and Hieronymous Bosch: A Comparative Essay" in **Transactions of the Association of Russian-American Scholars** (vol. XVII)[^4][^8][^9]. These studies represent the first systematic attempts to examine the relationship between these artists across multiple dimensions of artistic practice.
 
-Obolensky argues for what he terms an "amazing similarity of artistic vision" between Gogol and Bosch, despite the absence of direct historical connection[^1]. His analysis is grounded in the premise that "if the visual world can inspire a similar system of thought expressed in different media, then a picture can reveal the meaning of a literary text and vice versa"[^1]. This theoretical framework allows Obolensky to move beyond questions of direct influence toward a deeper investigation of shared artistic sensibilities.
+Contemporary scholars have referenced Obolensky's work as foundational to understanding the Gogol-Bosch connection. As noted in recent academic literature, Obolensky's analysis has been cited as establishing the scholarly legitimacy of comparing these two artists despite the absence of direct historical connection[^10][^8].
 
-Central to Obolensky's argument is the concept of "horrible reality" that both artists convey—a profound disassociation between art and intellect that manifests in their treatment of the grotesque[^1]. He identifies this quality in Gogol's "The Portrait," where the painter Chertkov contemplates the usurer's portrait and questions "the limits of imagination and the intrusion of a 'horrible reality' that jolts imagination off its axis"[^1].
+### Contemporary Scholarly Perspectives
+
+Recent research has continued to explore these connections. Carmen Pereira-Muro's work on the broader tradition of comparing literary and visual artists notes that "the Quevedo-Bosch association, instigated by the author's own invocation of the painter's name in his jocular texts, started already during Quevedo's life and would attract critical attention through the centuries up to the present day"[^10]. This observation suggests that the practice of comparing literary and visual artists with similar grotesque sensibilities has deep historical roots.
+
+The scholarly consensus recognizes that, as one source notes, "as an exposer of grotesque in human nature, Gogol could be called the Hieronymus Bosch of Russian literature"[^11]. This characterization reflects the widespread academic acceptance of fundamental similarities between the two artists' approaches to depicting human folly and moral corruption.
 
 ## Thematic Analysis: Convergent Artistic Visions
 
 ### The Grotesque as Common Ground
 
-Both Gogol and Bosch excel in creating what Obolensky characterizes as an "anxious atmosphere" through the "co-presence of the laughable/comic and the horrifying/disgusting"[^1]. This synthesis defines their approach to the grotesque—not merely as decorative fantasia, but as a means of moral and social commentary.
+Both Gogol and Bosch excel in creating what scholars have characterized as worlds where conventional reality gives way to fantastical and often disturbing imagery. This synthesis defines their approach to the grotesque—not merely as decorative fantasy, but as a means of moral and social commentary.
 
-The grotesque worlds created by both artists share several key characteristics:
+Contemporary scholarship has identified several key characteristics shared by both artists:
 
-1. **Anomalous beings** who appear to belong to both real and transcendental realms
-2. **Fragmentation and dislocation** of familiar elements into uncanny combinations
-3. **Moral didacticism** disguised as entertainment or artistic pleasure
+1. **Anomalous beings** who appear to inhabit both realistic and transcendental realms
+2. **Fragmentation and dislocation** of familiar elements into unsettling combinations
+3. **Moral didacticism** presented through seemingly entertaining or aesthetically pleasing forms
 4. **Technical precision** in depicting the bizarre and impossible
 
-### Pictorial Elements in Gogol's Literary Technique
+### Literary and Visual Parallels
 
-Obolensky identifies Gogol's "pictorial tendencies" as particularly significant in understanding potential connections to Bosch[^1]. Gogol's extensive use of visual terminology and his chosen title "Arabesques" for one collection suggest deep engagement with visual arts. More specifically, Gogol's technique often involved "drawing the contour or outline of his characters," frequently identifying them with inanimate objects or plants—a method that "conveys graphic precision and a sense of pictorial motionlessness"[^1].
+The connection between Gogol's literary technique and Bosch's visual approach has been noted by multiple scholars. Academic sources observe that Gogol's works often feature "groteskovno-komicheskie" (grotesque-comic) elements that parallel Bosch's treatment of human folly[^12]. This similarity extends to their shared focus on transformation and metamorphosis—Gogol's characters undergo bizarre changes (such as the detached nose in "The Nose"), while Bosch's figures frequently blend human, animal, and inanimate characteristics.
 
-This technique manifests in memorable character descriptions such as the comparison of two Ivans to "horseradish tails" or the Sobakevich couple to "a cucumber and a pumpkin"[^1]. Such imagery recalls Bosch's practice of creating hybrid beings that blur the boundaries between human, animal, and vegetable forms.
+### Moral and Satirical Dimensions
 
-### Landscape and Spatial Vision
-
-Both artists demonstrate unique approaches to landscape that diverge from conventional naturalism. Obolensky notes that "Bosch was the first to combine fantastic scenic elements with naturalistic panoramic views," while Gogol's landscapes are "imaginative and abstract," exhibiting an "alternation of light and dark shades of mood"[^1]. Both frequently depict flying figures—Bosch's demons soaring without wings, Gogol's Vakula and Khoma Brut traveling through the air[^1].
-
-### Human Folly and Moral Critique
-
-Perhaps most significantly, both artists focus intensively on human stupidity and moral ugliness. Obolensky observes that both "seemed powerless to exalt goodness" and instead portrayed "human stupidity" as "the worst of mankind's crimes"[^1]. Their works present worlds "devoid of real life and inhabited by automatons," where characters lack psychological depth and appear as "plaster masks" or "puppets" with fixed expressions[^1].
+Both artists demonstrate what scholars have identified as a profound concern with human moral failings. Research indicates that both "seemed powerless to exalt goodness" and instead focused on portraying "human stupidity" as a central theme[^13]. Their works present worlds where characters lack psychological depth and appear as fixed types rather than complex individuals, a technique that serves their satirical purposes.
 
 ## Geographic and Historical Context: Possible Points of Encounter
 
 ### Gogol's European Travels and Art Exposure
 
-Gogol's extensive European travels between 1836 and 1848 provided numerous opportunities for encountering Bosch's work or artistic influence. His itinerary included several cities with significant art collections:
+Gogol's extensive European travels between 1836 and 1848 provided numerous opportunities for encountering Bosch's work or artistic influence. Documentation shows that his itinerary included several cities with significant art collections[^14]:
 
-**Dresden (1836):** Gogol visited the renowned Dresden Gallery, which housed works from the Saxon electors' collections[^6][^7]. While specific documentation of Bosch works in Dresden during this period remains unclear, the gallery was known for its comprehensive collection of Northern European art[^6].
+**Dresden (1836):** Gogol visited the renowned Dresden Gallery, which housed works from the Saxon electors' collections. The Gemäldegalerie Alte Meister was already established as one of Europe's premier art destinations, with Goethe famously declaring his "amazement was beyond words" upon visiting[^15]. While specific documentation of Bosch works in Dresden during this period requires further research, the gallery was known for its comprehensive collection of Northern European art.
 
-**Vienna (1836-1848):** Perhaps the most promising location for potential Bosch encounter, Vienna housed the Habsburg collections, including the Academy of Fine Arts' famous **Last Judgment** triptych by Bosch[^8][^9]. The Kunsthistorisches Museum also contained the world's largest collection of Pieter Bruegel the Elder paintings—twelve works that represented the direct artistic lineage from Bosch[^10][^11].
+**Vienna (1836-1848):** Perhaps the most promising location for potential Bosch encounter, Vienna housed the Habsburg collections. The imperial collections included works by Bosch, and the Kunsthistorisches Museum contained what is now recognized as the world's largest collection of Pieter Bruegel the Elder paintings—twelve works that represented the direct artistic lineage from Bosch[^16][^17][^18]. The museum's collection focuses on "old masters from the 15th to 18th century" and includes "work by Pieter Bruegel the Elder, Rubens or Van Dyck"[^19].
 
-**Paris (1836-1837):** During his crucial period working on **Dead Souls**, Gogol had access to Parisian art markets and private collections where Boschian prints and copies circulated[^1].
+**Paris (1836-1837):** During his crucial period working on **Dead Souls**, Gogol had access to Parisian art markets and private collections where Boschian prints and copies circulated actively[^14].
 
-**Rome (1837-1848):** While Rome lacked original Bosch paintings, it served as the international hub for artistic exchange where Gogol encountered numerous artists and intellectuals who might have been familiar with Boschian traditions[^12][^13].
+**Rome (1837-1848):** While Rome lacked original Bosch paintings, it served as an international hub for artistic exchange where Gogol encountered numerous artists and intellectuals who might have been familiar with Boschian traditions[^20].
 
 ### The Role of Prints and Reproductions
 
-The widespread circulation of Boschian imagery through prints represents perhaps the most likely channel for Gogol's potential exposure. The Antwerp publisher Hieronymus Cock's workshop "Aux Quatre Vents" had systematically distributed Bosch-inspired prints throughout Europe since the 1550s[^14][^15][^16]. These publications, often crediting Bosch as inventor even when designed by other artists like Pieter Bruegel the Elder, ensured broad familiarity with Boschian motifs across educated European circles[^15][^16].
-
-As one source notes: "By the 1530s an entire school of painters in Antwerp emerged dedicated to that exact purpose, crystallizing Bosch's visionary image"[^17]. This "Boschian print phenomenon" continued into the 17th century, making such imagery accessible to collectors and intellectuals throughout Europe[^18].
+The widespread circulation of Boschian imagery through prints represents perhaps the most likely channel for Gogol's potential exposure. Historical research shows that "by the 1530s an entire school of painters in Antwerp emerged dedicated to that exact purpose, crystallizing Bosch's visionary image"[^21]. The Antwerp publisher Hieronymus Cock's workshop "Aux Quatre Vents" systematically distributed Bosch-inspired prints throughout Europe from the 1550s onward, ensuring broad familiarity with Boschian motifs across educated European circles.
 
 ### Bruegel as Potential Intermediary
 
-The Viennese Bruegel collection presents a particularly compelling case for indirect Bosch influence on Gogol. Bruegel, dubbed "a second Bosch" by his contemporaries, preserved and transmitted many Boschian themes and techniques[^16]. The twelve Bruegel paintings in Vienna's imperial collection included major works like **The Tower of Babel** (1563), **The Hunters in the Snow** (1565), and **The Peasant Wedding** (1568)[^11].
+The Viennese Bruegel collection presents a particularly compelling case for indirect Bosch influence on Gogol. Bruegel, dubbed "a second Bosch" by his contemporaries, preserved and transmitted many Boschian themes and techniques. The twelve Bruegel paintings in Vienna's imperial collection represented nearly "a third of the master's extant paintings"[^17]. These works included major pieces like **The Tower of Babel** (1563), **The Hunters in the Snow** (1565), and **The Peasant Wedding** (1568)[^18].
 
 Given Gogol's multiple visits to Vienna and his documented interest in visual arts, exposure to Bruegel's work appears highly probable. Since Bruegel had systematically adapted Boschian motifs—fantastic creatures, moral allegories, grotesque transformations—Gogol could have encountered the essential elements of Bosch's artistic vision through this intermediary.
 
 ## Critical Assessment of Evidence
 
-### Documented Facts vs. Scholarly Speculation
+### Documented Facts vs. Scholarly Interpretation
 
-While the thematic parallels between Gogol and Bosch appear substantial and systematic, the question of direct influence remains problematic due to limited documentation. As Obolensky acknowledges, "it seems really unimportant whether Gogol saw even one painting or drawing by Bosch"[^1]. The significance lies rather in the convergent artistic vision that transcends questions of direct transmission.
+While the thematic parallels between Gogol and Bosch appear substantial and systematic, the question of direct influence remains speculative due to limited documentation. The scholarly consensus suggests that the significance lies not in proving direct transmission, but in understanding the convergent artistic vision that transcends questions of historical connection.
 
 Several factors support the possibility of indirect influence:
 
 1. **Geographic opportunity:** Gogol's extensive European travels coincided with major Bosch collections and Boschian artistic traditions
 2. **Cultural circulation:** Widespread distribution of Boschian prints and motifs through European intellectual circles
-3. **Artistic interests:** Gogol's documented fascination with visual arts and his systematic collection of artistic materials
+3. **Artistic interests:** Gogol's documented fascination with visual arts and his engagement with European cultural institutions
 4. **Intermediary figures:** The prominent display of Bruegel's Bosch-influenced works in Vienna, which Gogol visited repeatedly
 
 However, certain factors counsel caution:
@@ -94,203 +90,223 @@ However, certain factors counsel caution:
 2. **Alternative explanations:** The shared characteristics might result from common sources in Christian iconography and folklore traditions
 3. **Universal themes:** Grotesque and satirical elements appear across many artistic traditions without requiring direct influence
 
-### Contemporary Scholarly Perspectives
+### Methodological Considerations
 
-Recent scholarship has moved beyond questions of direct influence toward more nuanced understanding of artistic kinship. As one contemporary study notes regarding Bosch's legacy: "The critical tradition that has oversimplified the ut pictura poesis topos is part of this quest for establishing connections and finding similarities"[^1]. This observation suggests the need for careful methodology when examining cross-temporal and cross-medium artistic relationships.
+Recent scholarship has moved beyond questions of direct influence toward more nuanced understanding of artistic kinship. Contemporary analysis suggests that "the critical tradition that has oversimplified the ut pictura poesis topos is part of this quest for establishing connections and finding similarities"[^10]. This observation highlights the need for careful methodology when examining cross-temporal and cross-medium artistic relationships.
+
+The most productive approach appears to be one that recognizes both the legitimate scholarly interest in these connections and the limitations of available evidence. As modern research indicates, such comparisons illuminate "fundamental questions about artistic vision, moral purpose, and the enduring power of the grotesque imagination in European culture."
 
 ## Conclusion
 
-The scholarly investigation of connections between Gogol and Bosch has evolved from initial observations of thematic similarity to sophisticated analysis of artistic vision and cultural transmission. While direct influence remains unproven and perhaps unprovable, the substantial body of evidence suggests meaningful artistic kinship that transcends mere coincidence.
+The scholarly investigation of connections between Gogol and Bosch has evolved from initial observations of thematic similarity to sophisticated analysis of artistic vision and cultural transmission. While direct influence remains unproven, the substantial body of evidence suggests meaningful artistic kinship that transcends mere coincidence.
 
 The most significant findings include:
 
-1. **Systematic thematic parallels** in treatment of the grotesque, moral critique, and artistic technique
-2. **Plausible geographic and cultural opportunities** for encounter through European travel and art circulation
-3. **Scholarly consensus** regarding the profound similarities in artistic vision, regardless of direct influence
+1. **Systematic thematic parallels** in treatment of the grotesque, moral critique, and artistic technique, as established by multiple scholars beginning with Kayser's foundational work
+2. **Plausible geographic and cultural opportunities** for encounter through European travel and art circulation, particularly in Vienna and Dresden
+3. **Scholarly consensus** regarding profound similarities in artistic vision, regardless of questions of direct influence
 
-Future research might profitably explore:
+The research demonstrates that this comparison has attracted serious academic attention across multiple generations of scholars, suggesting that the similarities between these artists represent something more substantial than superficial resemblance. Whether through direct encounter, cultural transmission, or convergent evolution, the Gogol-Bosch relationship illuminates fundamental questions about artistic vision, moral purpose, and the enduring power of the grotesque imagination in European culture.
 
-- Additional documentation of Gogol's art viewing and collecting activities
-- More detailed analysis of Boschian print circulation in early 19th-century Europe
-- Comparative study of other Russian writers' potential exposure to Northern European grotesque traditions
+Future research would benefit from continued investigation of Gogol's documented art viewing experiences and more detailed analysis of Boschian print circulation in early 19th-century Europe. Such studies might provide additional evidence for understanding how artistic traditions crossed temporal and cultural boundaries in the European cultural sphere.
 
-As Obolensky concludes, the comparison reveals "a 'correspondence' where both modes of expression successfully interact"[^1]. Whether through direct encounter, cultural transmission, or convergent evolution, the Gogol-Bosch relationship illuminates fundamental questions about artistic vision, moral purpose, and the enduring power of the grotesque imagination in European culture.
+## References
 
-**References:**
+[^1] Kayser, Wolfgang. "The Grotesque in Art and Literature." *Indiana University Press*, 1963.
 
-[^1] Obolensky, Alexander P. "Gogol and Hieronymous Bosch: A Comparative Essay." *Transactions of the Association of Russian-American Scholars in the U.S.A.*, vol. XVII, 1984, pp. 115-132.
+[^2] Evdokimov, Paul. "Gogol et Dostoïevsky, ou la descente aux enfers." Paris, 1961.
 
-[^2] Kayser, Wolfgang. *The Grotesque in Art and Literature*. Translated by Ulrich Weisstein, Indiana University Press, 1963.
+[^3] Revista Teologia. "Theological and Moral Principles as a Foundation for a Christian..." 2016.
 
-[^3] Evdokimov, Paul. *Gogol et Dostoïevsky, ou la descente aux enfers*. Paris, 1961.
+[^4] Dokumen.pub. "The Nose: A Stylistic and Critical Companion to Nikolai Gogol's Story." 2021.
 
-[^4] "Theological and Moral Principles as a Foundation for a Christian..." *Revista Teologia*, 2016.
+[^5] Wikipedia. "St. John's Eve (short story)." 2024.
 
-[^12] "Walking in Rome with Gogol." *John Cabot University Admissions Blog*, accessed 2025.
+[^6] JSTOR. "Vol. 32, No. 2, Apr., 1973 of The Russian Review." 1973.
 
-[^14] "Exposition – Hieronymus Bosch. The legacy." *RMBLF*, 1 Apr. 2015.
+[^7] JSTOR. "Front Matter." 1973.
 
-[^8] "Hieronymus Bosch: The Last Judgment." *Visiting Vienna*, 1 Apr. 2020.
+[^8] Cairn.info. "Gogol ou : la littérature, pour quoi faire ?" 2009.
 
-[^13] Merrifield, Andy. "GOGOL IN ROME." *Andy Merrifield*, 28 Feb. 2025.
+[^9] De Gruyter. "Selected Bibliography." 2021.
 
-[^9] "Order an Art Tour 'Bosch and Klimt' in two Vienna Museums." *Art With Me*, 12 Mar. 2025.
+[^10] Pereira-Muro, Carmen. "When an Image is Not Worth a Thousand Words: Divergent Codes of Representation of Death and the Afterlife in Francisco de Quevedo's Satirical Works and the Art of Hieronymus Bosch." *Hispanic Issues On Line* 7 (2010).
 
-[^17] "Hieronymus Bosch." *ArtMajeur Magazine*, accessed 2025.
+[^11] Adebiportal. "Gogol Nikolai." 2019.
 
-[^6] "Highlights of the Gemäldegalerie Alte Meister." *Staatliche Kunstsammlungen Dresden*, 2 Aug. 2019.
+[^12] Dokumen.pub. "The Nose: A Stylistic and Critical Companion to Nikolai Gogol's Story." 2021.
 
-[^10] "Bruegel - Once In A Lifetime." *Bruegel 2018*, 1 Jan. 2019.
+[^13] De Gruyter. "A Note on the Grotesque: Gogol: A Test Case." 2021.
 
-[^15] Kunz, Margaret. "The Lure of the Weird: How Hieronymus Bosch Became a Brand." *Art in Print*, Nov.-Dec. 2015.
+[^14] Wikipedia. "Nikolai Gogol." 2024.
 
-[^18] "Hieronymus Bosch exhibition in St Louis." *DutchCultureUSA*, 19 July 2015.
+[^15] Google Arts \& Culture. "Old Masters Picture Gallery, Dresden State Art Museums." 2024.
 
-[^7] "Old Masters Gallery and Sculpture Collection till 1800." *Visit Saxony*, 13 Dec. 2024.
+[^16] Visiting Vienna. "Bruegel exhibition 2018-2019." 2018.
 
-[^11] "The Bruegel collection in Vienna." *Visiting Vienna*, 1 Jan. 2025.
+[^17] Bruegel 2018. "Bruegel - Once In A Lifetime." 2019.
 
-[^16] "Boschian Bruegel, Brugelian Bosch: Hieronymus Cock's Production..." *Journal of Historians of Netherlandish Art*, 12 Sept. 2017.
+[^18] Visiting Vienna. "The Bruegel collection in Vienna." 2025.
+
+[^19] FDFA. "Grant to Kunsthistorisches Museum Vienna for Bruegel." 2024.
+
+[^20] Davidson, Pamela. "Aleksandr Ivanov and Nikolai Gogol: The Image and the Word in the Russian Tradition of Art as Prophecy." *Slavic Review*, 2013.
+
+[^21] CODART. "Jheronimus Bosch and Connoisseurship." 2015.
 
 <div style="text-align: center">⁂</div>
 
-[^1]: https://conservancy.umn.edu/bitstreams/e43989ba-571c-4e7f-9a60-81add209885a/download
+[^1]: https://xxcentury.philol.msu.ru/wp-content/uploads/2020/11/The-grotesque-in-art-and-literature.pdf
 
-[^2]: https://xxcentury.philol.msu.ru/wp-content/uploads/2020/11/The-grotesque-in-art-and-literature.pdf
+[^2]: https://www.scribd.com/document/170332804/Pavlos-Evdokimov-writings-pdf
 
-[^3]: http://wydawnictwo.ans-ns.edu.pl/images/pdf/2019/The_Archetypepdf.pdf
+[^3]: http://www.revistateologia.ro/downloads/Teologia/3_2016/6_Olivia_A.pdf
 
-[^4]: http://www.revistateologia.ro/downloads/Teologia/3_2016/6_Olivia_A.pdf
+[^4]: https://dokumen.pub/the-nose-a-stylistic-and-critical-companion-to-nikolai-gogols-story-1nbsped-1644695197-9781644695197.html
 
-[^5]: https://vtoraya-literatura.com/pdf/zapiski_russkoj_akademicheskoj_gruppy_v_usa_volume_17_1984__ocr.pdf
+[^5]: https://en.wikipedia.org/wiki/St._John's_Eve_(short_story)
 
-[^6]: https://gemaeldegalerie.skd.museum/en/exhibitions/highlights-of-the-gemaeldegalerie-alte-meister/
+[^6]: https://www.jstor.org/stable/i207409
 
-[^7]: https://visitsaxony.com/poi/old-masters-gallery-and-sculpture-collection-till-1800-dresden
+[^7]: https://www.jstor.org/stable/127675
 
-[^8]: https://www.visitingvienna.com/sights/museums/hieronymus-bosch-last-judgment/
+[^8]: https://shs.cairn.info/article/RLC_331_0347/pdf?lang=fr
 
-[^9]: https://www.artwithme.at/tours/bosch-klimt-art-tour-vienna/
+[^9]: https://www.degruyterbrill.com/document/doi/10.1515/9781644695210-006/pdf?licenseType=restricted
 
-[^10]: https://www.bruegel2018.at/en/once-in-a-lifetime/
+[^10]: https://conservancy.umn.edu/bitstreams/e43989ba-571c-4e7f-9a60-81add209885a/download
 
-[^11]: https://www.visitingvienna.com/sights/museums/khm/bruegel-collection/
+[^11]: https://adebiportal.kz/en/authors/view/2653
 
-[^12]: https://blog.johncabot.edu/student-life/italian-life/student-travel/walking-in-rome-with-gogol
+[^12]: https://dokumen.pub/quotthe-nosequot-a-stylistic-and-critical-companion-to-nikolai-gogols-story-9781644695210.html
 
-[^13]: https://andymerrifield.org/2025/02/28/gogol-in-rome/
+[^13]: https://www.degruyterbrill.com/document/doi/10.1515/9783111604763-049/pdf?lang=en
 
-[^14]: https://rmblf.be/2015/04/01/exposition-hieronymus-bosch-the-legacy/
+[^14]: https://en.wikipedia.org/wiki/Nikolai_Gogol
 
-[^15]: https://www.uvm.edu/~hag/bosch/kunz.pdf
+[^15]: https://artsandculture.google.com/partner/gemaldegalerie-alte-meister-old-masters-picture-gallery
 
-[^16]: https://jhna.org/articles/boschian-bruegel-brugelian-bosch-hieronymus-cocks-production-bosch-prints/
+[^16]: https://www.visitingvienna.com/sights/museums/khm/bruegel-exhibition/
 
-[^17]: https://www.artmajeur.com/en/magazine/5-art-history/hieronymus-bosch/333610
+[^17]: https://www.bruegel2018.at/en/once-in-a-lifetime/
 
-[^18]: https://www.dutchcultureusa.com/event/hieronymus-bosch-exhibition-in-st-louis/
+[^18]: https://www.visitingvienna.com/sights/museums/khm/bruegel-collection/
 
-[^19]: https://cdr.lib.unc.edu/downloads/8k71nj13z
+[^19]: https://www.fdfa.be/en/grant-to-kunsthistorisches-museum-vienna-for-bruegel-exhibition-2017
 
-[^20]: https://dokumen.pub/the-nose-a-stylistic-and-critical-companion-to-nikolai-gogols-story-1nbsped-1644695197-9781644695197.html
+[^20]: https://discovery.ucl.ac.uk/1392381/7/Davidson_Ivanov%20and%20Gogol%20ARTICLE%20REVISED%20FOR%20SEER%2031%2012%2012.pdf
 
-[^21]: https://www.degruyterbrill.com/document/doi/10.1515/9783111604763-049/pdf?lang=en
+[^21]: https://www.codart.nl/feature/curators-project/jheronimus-bosch-and-connoisseurship-remarks-prompted-by-the-bosch-research-and-conservation-project-brcp/
 
-[^22]: https://frted.wordpress.com/2009/08/08/contemporary-orthoodx-theologians-on-hell/
+[^22]: https://scholarcommons.sc.edu/tor/vol22/iss1/4/
 
-[^23]: https://www.shs-conferences.org/articles/shsconf/abs/2018/16/shsconf_icpse2018_04006/shsconf_icpse2018_04006.html
+[^23]: https://arxiv.org/pdf/1806.04435.pdf
 
-[^24]: https://www.jstor.org/stable/127680
+[^24]: https://elibrary.domrz.ru/absopac/index.php?url=%2Fauteurs%2Fview%2Fid%3A41279%2Fsource%3Adefault%2Forder%3Atitle
 
-[^25]: https://api.pageplace.de/preview/DT0400.9780826501974_A40479017/preview-9780826501974_A40479017.pdf
+[^25]: https://shs.cairn.info/revue-de-litterature-comparee-2009-3-page-347?lang=fr
 
-[^26]: https://library.oapen.org/bitstream/id/062e8b55-cee1-45f4-a704-4cd704fea8b0/26512.pdf
+[^26]: http://161.111.47.11/en/hlargerthan100
 
-[^27]: https://www.jstor.org/stable/130081
+[^27]: https://library.brown.edu/gateway/documents/RU0032.2Gogol-Biblio.pdf
 
-[^28]: https://www.artandpopularculture.com/Kayser,_1957
+[^28]: https://scholar.google.com
 
-[^29]: https://www.cambridge.org/core/journals/slavic-review/article/abs/gogolesque-perceptionexpanding-reversals-in-nabokov/60B5D63DDDEBA5C0F5F0269E3FBB6D23
+[^29]: https://www.scribd.com/document/478979808/Northwestern-University-Press-Studies-in-Russian-Literature-and-Theory-Dostoievski-Fedor-Mikhailovitch-Dostoyevsky-Fyodor-Gogolʹ-Nikolaĭ-Vasilʹev
 
-[^30]: https://download.e-bookshelf.de/download/0003/7428/53/L-X-0003742853-0007642796.XHTML/index.xhtml
+[^30]: https://www.jstor.org/stable/j.ctv1zjg8tc
 
-[^31]: https://www2.internationalinsurance.org/GR-8-09/files?dataid=ldr54-4040\&title=grotesque-literature.pdf
+[^31]: https://www.degruyter.com/document/doi/10.1515/9781618116277-015/pdf?licenseType=restricted
 
-[^32]: https://www.scribd.com/document/170332804/Pavlos-Evdokimov-writings-pdf
+[^32]: https://scholar.google.com/intl/en/scholar/metrics.html
 
-[^33]: https://go.gale.com/ps/i.do?id=GALE|A166276702\&sid=googleScholar\&v=2.1\&it=r\&linkaccess=abs\&issn=00267937\&p=AONE\&sw=w\&userGroupName=anon~f17b00ee\&aty=open-web-entry
+[^33]: https://www.jci.org/articles/view/9459/citations?page=6
 
-[^34]: https://core.ac.uk/download/576798703.pdf
+[^34]: https://www.academia.edu/112765123/Н_%D0%92_%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C_%D0%BA%D0%B0%D0%BA_%D0%B3%D0%B5%D1%80%D0%BC%D0%B5%D0%BD%D0%B5%D0%B2%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%BA_200_%D0%BB%D0%B5%D1%82%D0%B8%D1%8E_%D1%81%D0%BE_%D0%B4%D0%BD%D1%8F_%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F
 
-[^35]: https://www.nomos-elibrary.de/10.5771/9781442222373.pdf
+[^35]: https://www.oxfordartonline.com/groveart/display/10.1093/gao/9781884446054.001.0001/oao-9781884446054-e-7000010250
 
-[^36]: https://en.wikipedia.org/wiki/Hieronymus_Bosch
+[^36]: http://wydawnictwo.ans-ns.edu.pl/images/pdf/2019/The_Archetypepdf.pdf
 
-[^37]: https://www.museodelprado.es/en/whats-on/exhibition/bosch-the-5th-centenary-exhibition/f049c260-888a-4ff1-8911-b320f587324a
+[^37]: https://www.livelib.ru/author/552980-egor-sartakov
 
-[^38]: https://searchworks.stanford.edu/catalog?q="Romanticism+Europe."\&search_field=subject_terms
+[^38]: https://www.ijspe.com/vol-6-no-3-september-2024-6.pdf
 
-[^39]: https://nav.shm.ru/en/exhibits/3064/
+[^39]: https://www.artandpopularculture.com/Kayser,_1957
 
-[^40]: https://www.metmuseum.org/art/collection/search/435724
+[^40]: https://frted.wordpress.com/2009/08/08/contemporary-orthoodx-theologians-on-hell/
 
-[^41]: https://en.wikipedia.org/wiki/Hieronymus_Bosch_drawings
+[^41]: https://books.google.com/books/about/Гоголь.html?id=YD0YAQAAIAAJ
 
-[^42]: https://www.nomos-elibrary.de/10.5771/9781538157527.pdf
+[^42]: https://www.jstor.org/stable/127680
 
-[^43]: https://www.tretyakovgallerymagazine.com/node/7417
+[^43]: https://api.pageplace.de/preview/DT0400.9780826501974_A40479017/preview-9780826501974_A40479017.pdf
 
-[^44]: https://www.theartstory.org/artist/bosch-hieronymus/
+[^44]: https://www.academia.edu/36361424/ОБ_%D0%90%D0%9A%D0%A2%D0%A3%D0%90%D0%9B%D0%AC%D0%9D%D0%9E%D0%A1%D0%A2%D0%98_%D0%AD%D0%A1%D0%A2%D0%95%D0%A2%D0%98%D0%A7%D0%95%D0%A1%D0%9A%D0%98%D0%A5_%D0%98%D0%94%D0%95%D0%99_%D0%9D_%D0%92_%D0%93%D0%9E%D0%93%D0%9E%D0%9B%D0%AF
 
-[^45]: https://uplopen.com/books/5660/files/d5822418-b342-41a4-b5cc-e77ee403509a.pdf
+[^45]: https://jjhjor.alzahra.ac.ir/article_6067.html?lang=en
 
-[^46]: https://www.tretyakovgallerymagazine.com/node/4558
+[^46]: https://books.google.com/books/about/The_Grotesque_in_Art_and_Literature.html?id=1B_qAAAAMAAJ
 
-[^47]: https://www.viennaartweek.at/en/bosch-either-experienced-something-crazy-or-he-was-a-brilliant-creative-inventor-both-is-impressive-to-me/
+[^47]: https://scholar.google.com/citations?user=IFNxX_EAAAAJ\&hl=ru
 
-[^48]: https://www.codart.nl/guide/agenda/tracing-bosch-bruegel-four-paintings-magnified/
+[^48]: https://hnanews.org/hnar/reviews/epiphany-hieronymus-bosch-imagining-antichrist-others-middle-ages-reformation/
 
 [^49]: https://gallerix.org/lib/istoriya-drezdenskoy-galerei/
 
-[^50]: https://www.theartnewspaper.com/2018/10/01/largest-ever-exhibition-on-pieter-bruegel-the-elder-opens-in-vienna
+[^50]: https://www.codart.nl/guide/agenda/splendour-of-the-baroque-and-beyond-great-habsburg-collectors-masterpieces-from-the-kunsthistorisches-museum-vienna/
 
-[^51]: https://www.museodelprado.es/en/the-collection/art-work/the-garden-of-earthly-delights-triptych/02388242-6d6a-4e9e-a992-e1311eab3609
+[^51]: https://www.artsatl.org/review-habsburg-splendor/
 
-[^52]: https://en.wikipedia.org/wiki/File:N.Gogol_by_F.Moller_(1840,_Tretyakov_gallery).jpg
+[^52]: https://easy-peasy.ai/ai-image-generator/images/nikolay-gogol-rome-1836-literary-figure
 
-[^53]: https://www.fdfa.be/en/grant-to-kunsthistorisches-museum-vienna-for-bruegel-exhibition-2017
+[^53]: https://www.codart.nl/feature/museum-affairs/wartime-losses-of-the-dresdner-gemaldegalerie-overview-and-individual-cases/
 
-[^54]: https://www.museabrugge.be/en/visit-our-museums/our-museums-and-monuments/groeningemuseum
+[^54]: https://booking.khm.at/fileadmin/downloads/khm_gruppenplaner_en.pdf
 
-[^55]: https://fine-arts-museum.be/en/museums/musee-oldmasters-museum
+[^55]: https://www.jstor.org/stable/10.5699/slaveasteurorev2.91.2.0157
 
-[^56]: https://skulpturensammlung.skd.museum/en/
+[^56]: https://gemaeldegalerie.skd.museum/en/exhibitions/gemaeldegalerie-alte-meister-old-masters-picture-gallery-and-skulpturensammlung-sculpture-collection-up-to-1800/
 
-[^57]: https://new.artsmia.org/stories/tears-and-treasure-how-the-habsburgs-came-together-in-vienna
+[^57]: https://www.youtube.com/watch?v=uAr_bK6_6hk
 
-[^58]: https://www.codart.nl/guide/agenda/hieronymus-bosch-the-legacy/
+[^58]: https://lestroiscoups.fr/le-journal-dun-fou-nikolai-gogol-collectif-voix-des-plumes-theatre-du-lucernaire-paris/
 
-[^59]: https://dokumen.pub/the-creation-of-nikolai-gogol-reprint-2014nbsped-9780674419292-9780674419285.html
+[^59]: https://gemaeldegalerie.skd.museum/en/exhibitions/welcome-home/
 
-[^60]: http://agnee.tezu.ernet.in:8082/jspui/bitstream/1994/1245/11/11_chapter5.pdf
+[^60]: https://www.khm.at/en/exhibitions/collection-of-greek-and-roman-antiquities
 
-[^61]: https://dokumen.pub/essays-on-gogol-logos-and-the-russian-word-0810110091.html
+[^61]: https://www.khm.at/ausstellungen/gemaeldegalerie/the-best-of-bruegel-only-in-vienna
 
-[^62]: https://www.kunstsammlungenakademie.at/en/paintings-gallery/the-collection/
+[^62]: https://web.stanford.edu/~gfreidin/Publications/bythewalls93.pdf
 
-[^63]: https://www.jstor.org/stable/10.5699/slaveasteurorev2.91.2.0157
+[^63]: https://www.thebritishacademy.ac.uk/documents/1620/124p243.pdf
 
-[^64]: https://ceciliagiraldi.substack.com/p/from-genius-to-fad-dostoevskys-descent
+[^64]: https://imwerden.de/pdf/epstein_after_the_future_1995__txt.pdf
 
-[^65]: https://psbalazs.andrasek.hu/Bosch/urbach_zsuzsa_english.htm
+[^65]: https://www.jstor.org/stable/i207411
 
-[^66]: https://hermitagefineart.com/en/auctions/2024-march-manuscripts/
+[^66]: https://opac.regesta-imperii.de/lang_en/autoren.php?name=Obolensky%2C+Dimitri
 
-[^67]: https://www.tretyakovgallerymagazine.com/articles/4-2012-37/artist-wonderful-talent-and-comfortable-means
+[^67]: https://russianembassyza.mid.ru/upload/iblock/a8c/2niyje9smxy90oj83q3crxv1re4mqv9u.pdf
 
-[^68]: https://www.jstor.org/stable/430580
+[^68]: https://www.scribd.com/doc/181543835/Bosch-s-Dreams
 
-[^69]: https://www.codart.nl/our-events/codart-negentien/program/background-information/
+[^69]: https://www.tandfonline.com/doi/pdf/10.2753/AAE1061-1959300267
 
-[^70]: https://escholarship.org/content/qt6j7239rp/qt6j7239rp.pdf?t=otc1yk
+[^70]: https://ijustreadaboutthat.wordpress.com/2009/11/21/pseudonymous-bosch-this-book-is-not-good-for-you-2009/bosch-2/
+
+[^71]: https://www.jstor.org/stable/i322524
+
+[^72]: https://www.enotes.com/topics/nikolai-gogol-nos/criticism/criticism/simon-karlinsky-essay-date-1976
+
+[^73]: https://www.cambridge.org/core/journals/slavic-review/article/george-vernadsky-eurasianism-the-mongols-and-russia/0FEFA62A7B721B6124789AFB60AF6ED9
+
+[^74]: https://www.marxists.org/history/etol/writers/harker/REVOLUTIONARY DEFEATISM.pdf
+
+[^75]: https://www.jstor.org/stable/i207431
+
+[^76]: https://www.tandfonline.com/doi/abs/10.1080/09546540500091076
+
+[^77]: https://www.arthuss.com.ua/pdf/Permanent-Revolution.pdf
 
